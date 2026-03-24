@@ -64,6 +64,9 @@ I enjoy working in fast-paced environments, collaborating with teams, and taking
   <img src="https://github-readme-stats.vercel.app/api?username=KarunaamruthanSS&show_icons=true&theme=radical" alt="stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarunaamruthanSS&theme=radical" alt="streak" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KarunaamruthanSS&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor counter" />
+</p>
 
 ---
 
