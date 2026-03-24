@@ -4,11 +4,19 @@
 ---
 
 ## 🚀 About Me
-- 💻 Passionate about building scalable web applications and intelligent systems  
-- 🧠 Working in **Machine Learning** & **LLM Fine-Tuning**  
-- 🌐 Experienced in **Frontend** and **Full Stack Development**  
-- 🛠️ Love solving real-world problems with clean and efficient code  
-- 📚 Constantly learning and exploring new technologies  
+
+I’m a passionate and driven developer who enjoys building impactful software solutions that bridge the gap between intelligent systems and user-friendly applications. With a strong foundation in programming and problem-solving, I specialize in developing scalable full-stack applications and working on cutting-edge Machine Learning and Large Language Model (LLM) technologies.
+
+I have hands-on experience across the entire development lifecycle — from designing intuitive frontends to building robust backend systems and deploying machine learning models into production-ready environments. My work focuses on writing clean, efficient, and maintainable code while continuously exploring modern tools and frameworks.
+
+I’m particularly interested in:
+- 🧠 Developing and fine-tuning Large Language Models (LLMs)  
+- ⚙️ Building scalable and high-performance backend systems  
+- 🌐 Creating responsive and engaging frontend experiences  
+- 🔬 Applying Machine Learning to solve real-world problems  
+- 🚀 Integrating AI into full-stack applications  
+
+I enjoy working in fast-paced environments, collaborating with teams, and taking ownership of projects from idea to deployment. I am constantly learning, experimenting, and pushing my boundaries to stay updated with the latest advancements in technology.
 
 ---
 
@@ -53,8 +61,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=radical" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KarunaamruthanSS&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarunaamruthanSS&theme=radical" alt="streak" />
 </p>
 
 ---
