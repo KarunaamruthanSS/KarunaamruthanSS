@@ -1,17 +1,82 @@
-# Library Management System
+<h1 align="center">Hi 👋, I'm Karunaamruthan S S</h1>
+<h3 align="center">Full Stack Developer | Machine Learning Engineer | LLM Fine-Tuning Enthusiast</h3>
 
-A new Flutter project.
+---
 
-## Getting Started
+## 🚀 About Me
+- 💻 Passionate about building scalable web applications and intelligent systems  
+- 🧠 Working in **Machine Learning** & **LLM Fine-Tuning**  
+- 🌐 Experienced in **Frontend** and **Full Stack Development**  
+- 🛠️ Love solving real-world problems with clean and efficient code  
+- 📚 Constantly learning and exploring new technologies  
+
+---
+
+## 🧑‍💻 Tech Stack
+
+### 🚀 Languages
+- Python 🐍  
+- C  
+- C++  
+- Java
+- R
+
+### 🌐 Web Development
+- HTML | CSS | JavaScript  
+- React.js / Next.js  
+- Node.js / Express.js  
+
+### 🧠 Machine Learning & AI
+- Scikit-learn  
+- TensorFlow / PyTorch  
+- LLM Fine-Tuning (Transformers, LoRA, etc.)  
+
+### 🗄️ Databases
+- MySQL  
+- MongoDB  
+
+### ⚙️ Tools & Technologies
+- Git & GitHub  
+- Docker  
+- REST APIs  
+- Linux  
+
+---
+
+## 📌 What I’m Working On
+- 🔬 Fine-tuning Large Language Models  
+- 🌐 Building scalable full-stack applications  
+- ⚡ Optimizing ML pipelines and deployment  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=radical" alt="streak" />
+</p>
+
+---
+
+## 🧠 Areas of Interest
+- Artificial Intelligence  
+- Large Language Models (LLMs)  
+- System Design  
+- Open Source Contribution  
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: [Your LinkedIn Link]  
+- 📧 Email: karunaamruthanss@gmail.com  
 
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ⚡ Fun Fact
+> I turn coffee ☕ into code and ideas into reality 🚀
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+⭐️ From KarunaamruthanSS(https://github.com/KarunaamruthanSS)
